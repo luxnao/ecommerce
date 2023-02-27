@@ -1,0 +1,11 @@
+[
+  {
+    "model": "shopping.Category",
+    "pk": 1,
+    "fields": {
+      "slug": "shirts",
+      "name": "t-shirt",
+      "description": "t-shirt with 50% discount"
+    }
+  }
+]
